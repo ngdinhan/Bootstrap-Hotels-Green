@@ -1,0 +1,27 @@
+:root {
+    --primary-color: #24ab70;
+}
+.mtb-12 {
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+.services__title {
+    font-size: 1rem;
+    font-weight: 400;
+}
+.services__content {
+    width: 193px;
+    height: 193px;
+    border: solid 1px #f0eded;
+    margin: 0 13px 26px 13px;
+    border-radius: 6px;
+}
+.services__img {
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    color: var(--primary-color);
+}
+.services__text {
+    font-size: 18px;
+}
